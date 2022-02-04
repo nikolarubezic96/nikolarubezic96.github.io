@@ -177,7 +177,7 @@ var osoblje = [
         "ime": "Mark Peterson",
         "zanimanje": "DevOps",
         "slika": {
-            "src": "delex/images/slika_mark.jpg",
+            "src":"delex/images/slika_mark.jpg",
             "alt": "Mark Peterson"
         }
     },
@@ -187,7 +187,7 @@ var osoblje = [
         "ime": "Mary Swanson",
         "zanimanje": "Statistician",
         "slika": {
-            "src": "delex/images/slika_mary.jpg",
+            "src":"delex/images/slika_mary.jpg",
             "alt": "Mary Swanson"
         }
     },
@@ -197,7 +197,7 @@ var osoblje = [
         "ime": "John Soprano",
         "zanimanje": "Software Engineer",
         "slika": {
-            "src": "delex/images/slika_john.jpg",
+            "src":"delex/images/slika_john.jpg",
             "alt": "John Soprano"
         }
     }
