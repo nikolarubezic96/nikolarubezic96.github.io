@@ -177,7 +177,7 @@ var osoblje = [
         "ime": "Mark Peterson",
         "zanimanje": "DevOps",
         "slika": {
-            "src": "../images/slika_mark.jpg",
+            "src": "dalex/images/slika_mark.jpg",
             "alt": "Mark Peterson"
         }
     },
@@ -187,7 +187,7 @@ var osoblje = [
         "ime": "Mary Swanson",
         "zanimanje": "Statistician",
         "slika": {
-            "src": "images/slika_mary.jpg",
+            "src": "dalex/images/slika_mary.jpg",
             "alt": "Mary Swanson"
         }
     },
@@ -197,7 +197,7 @@ var osoblje = [
         "ime": "John Soprano",
         "zanimanje": "Software Engineer",
         "slika": {
-            "src": "images/slika_john.jpg",
+            "src": "dalex/images/slika_john.jpg",
             "alt": "John Soprano"
         }
     }
@@ -381,6 +381,4 @@ function proveraRegEx()
         document.getElementById("ajax-form").reset();
     }
 }
-
-//hamburger
 
