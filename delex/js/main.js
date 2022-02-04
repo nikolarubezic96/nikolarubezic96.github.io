@@ -1,7 +1,7 @@
 //navigacioni meni
 
 var navNazivi = ["Home", "Services", "Contact", "About"];
-var navLinkovi = ["#", "#services", "#contact", "https://nikolarubezic.github.io/mojportfolio/index.html"];
+var navLinkovi = ["index.html", "#services", "#contact", "https://nikolarubezic.github.io/mojportfolio/index.html"];
 
 ///ispis navigacionog menija
 	
