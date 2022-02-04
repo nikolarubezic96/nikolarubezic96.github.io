@@ -177,7 +177,7 @@ var osoblje = [
         "ime": "Mark Peterson",
         "zanimanje": "DevOps",
         "slika": {
-            "src": "images/slika_mark.jpg",
+            "src": "../images/slika_mark.jpg",
             "alt": "Mark Peterson"
         }
     },
