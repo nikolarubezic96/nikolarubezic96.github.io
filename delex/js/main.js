@@ -167,7 +167,7 @@ var osoblje = [
         "ime": "Anna Johnson",
         "zanimanje": "Software Engineer",
         "slika": {
-            "src":"images/slika_anna.jpg",
+            "src":"delex/images/slika_anna.jpg",
             "alt": "Anna Johnson"
         }
     },
